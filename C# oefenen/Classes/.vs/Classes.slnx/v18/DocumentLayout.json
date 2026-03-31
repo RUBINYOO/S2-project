@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive - Office 365 Fontys\\Semester 2\\Circus Train Kickstart Challenge\\Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB5FC4-C7AE-4778-BE75-27BF307132DE}|Classes.csproj|c:\\users\\ruben\\onedrive - office 365 fontys\\semester 2\\circus train kickstart challenge\\classes\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB5FC4-C7AE-4778-BE75-27BF307132DE}|Classes.csproj|solutionrelative:messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BB5FC4-C7AE-4778-BE75-27BF307132DE}|Classes.csproj|C:\\Users\\ruben\\OneDrive - Office 365 Fontys\\Semester 2\\Circus Train Kickstart Challenge\\Classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB5FC4-C7AE-4778-BE75-27BF307132DE}|Classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive - Office 365 Fontys\\Semester 2\\Circus Train Kickstart Challenge\\Classes\\Messages.cs",
+              "RelativeDocumentMoniker": "Messages.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive - Office 365 Fontys\\Semester 2\\Circus Train Kickstart Challenge\\Classes\\Messages.cs",
+              "RelativeToolTip": "Messages.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:59:07.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive - Office 365 Fontys\\Semester 2\\Circus Train Kickstart Challenge\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive - Office 365 Fontys\\Semester 2\\Circus Train Kickstart Challenge\\Classes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:53:01.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
