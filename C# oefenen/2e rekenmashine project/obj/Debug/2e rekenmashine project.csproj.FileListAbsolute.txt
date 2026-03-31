@@ -1,7 +1,0 @@
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\2e rekenmashine project\obj\Debug\2e rekenmashine project.csproj.AssemblyReference.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\2e rekenmashine project\obj\Debug\2e rekenmashine project.csproj.CoreCompileInputs.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\2e rekenmashine project\bin\Debug\2e rekenmashine project.exe.config
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\2e rekenmashine project\bin\Debug\2e rekenmashine project.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\2e rekenmashine project\bin\Debug\2e rekenmashine project.pdb
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\2e rekenmashine project\obj\Debug\2e rekenmashine project.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\2e rekenmashine project\obj\Debug\2e rekenmashine project.pdb

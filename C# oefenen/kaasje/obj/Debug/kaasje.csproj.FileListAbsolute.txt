@@ -1,7 +1,0 @@
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\kaasje\obj\Debug\kaasje.csproj.AssemblyReference.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\kaasje\obj\Debug\kaasje.csproj.CoreCompileInputs.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\kaasje\bin\Debug\kaasje.exe.config
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\kaasje\bin\Debug\kaasje.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\kaasje\bin\Debug\kaasje.pdb
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\kaasje\obj\Debug\kaasje.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\kaasje\obj\Debug\kaasje.pdb
