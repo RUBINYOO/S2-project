@@ -1,0 +1,7 @@
+C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
