@@ -1,7 +1,0 @@
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\Artiest splitter programma\bin\Debug\Artiest splitter programma.exe.config
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\Artiest splitter programma\bin\Debug\Artiest splitter programma.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\Artiest splitter programma\bin\Debug\Artiest splitter programma.pdb
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\Artiest splitter programma\obj\Debug\Artiest splitter programma.csproj.AssemblyReference.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\Artiest splitter programma\obj\Debug\Artiest splitter programma.csproj.CoreCompileInputs.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\Artiest splitter programma\obj\Debug\Artiest splitter programma.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\C# oefenen\Artiest splitter programma\obj\Debug\Artiest splitter programma.pdb

@@ -1,7 +1,0 @@
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\Constructors\bin\Debug\Constructors.exe.config
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\Constructors\bin\Debug\Constructors.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\Constructors\bin\Debug\Constructors.pdb
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\Constructors\obj\Debug\Constructors.exe
-C:\Users\ruben\OneDrive - Office 365 Fontys\Semester 2\Circus Train Kickstart Challenge\Constructors\obj\Debug\Constructors.pdb
