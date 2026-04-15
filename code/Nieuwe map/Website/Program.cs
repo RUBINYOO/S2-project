@@ -1,4 +1,9 @@
+using DAL;
+using Logic;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddScoped<IFestivalRepo, FestivalRepo>();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
