@@ -1,7 +1,59 @@
 ﻿@page
+@using Logic
 @model Website.Pages.FestivalDetailsModel
 @{
 	ViewData["Title"] = "Festival Details";
 }
 
+<div class="container my-4">
+    <div class="card shadow-sm">
+        <div class="card-body">
+
+            <h3 class="card-title fw-bold">@Model.selectedFestival.Name</h3>
+
+            <div class="row g-3 align-items-start">
+                <div class="col-auto">
+                    <img class="img-fluid"
+                         src="https://festivalfans.nl/wp-content/uploads/2014/12/316553591_667533888144557_8267567650546764213_n-1-180x240.jpg"
+                         width="180" height="240"
+                         alt="HARDFEST">
+                </div>
+                <div class="col">
+                    <p class="mb-1"><strong>Stad:</strong> @Model.selectedFestival.City</p>
+                    <p class="mb-1"><strong>Locatie:</strong> @Model.selectedFestival.Location</p>
+                    <p class="mb-1"><strong>Datum:</strong> @Model.selectedFestival.Date</p>
+                    <p class="mb-3"><strong>Tijd:</strong> @Model.selectedFestival.StartingTime - @Model.selectedFestival.EndingTime</p>
+                </div>
+            </div>
+
+            <hr>
+
+            <h5 class="fw-bold">Tickets</h5>
+            
+            <ul class="list-group mb-3">
+                @foreach (var t in Model.selectedFestival.Tickets)
+                {
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>@t.Type</span>
+                        <span class="fw-bold">@t.Price</span>
+                    </li>
+                }
+            </ul>
+            
+
+            <a href="@Model.selectedFestival.TicketLink" class="btn btn-primary  mb-3">Tickets</a>
+
+            <hr>
+
+            <h5 class="fw-bold">Line-up</h5>
+            <ul class="mb-0">
+                @foreach (var artist in Model.selectedFestival.LineUp)
+                {
+                    <li>@artist</li>
+                }
+            </ul>
+
+        </div>
+    </div>
+</div>
 

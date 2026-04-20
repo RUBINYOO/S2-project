@@ -8,5 +8,7 @@ namespace Logic
 	{
 		public List<Festival> GetAllFestivals();
 
+		public Festival GetFestivalById(int id);
+
 	}
 }

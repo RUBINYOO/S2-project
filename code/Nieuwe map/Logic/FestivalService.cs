@@ -15,5 +15,10 @@ namespace Logic
 		{
 			return festivalRepo.GetAllFestivals();
 		}
+
+		public Festival GetFestival(int id)
+		{
+			return festivalRepo.GetFestivalById(id);
+		}
 	}
 }

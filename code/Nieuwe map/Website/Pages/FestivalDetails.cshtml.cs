@@ -8,14 +8,14 @@ namespace Website.Pages
     public class FestivalDetailsModel : PageModel
     {
 		private readonly FestivalService festivalService;
-		public List<Festival> festivals { get; set; }
+		public Festival selectedFestival ;
 		public FestivalDetailsModel(IFestivalRepo festivalRepo)
 		{
 			festivalService = new(festivalRepo);
 		}
-		public void OnGet()
+		public void OnGet(int id)
 		{
-			festivals = festivalService.GetFestivals();
+			selectedFestival = festivalService.GetFestival(id);
 		}
 	}
 }

@@ -3,19 +3,19 @@
 	public class Festival
 	{
 		public int Id { get; set; }
-		public string Name { get; set; } = string.Empty;
+		public string Name { get; set; }
 		public DateOnly Date { get; set; }
 		public TimeOnly StartingTime { get; set; }
 		public TimeOnly EndingTime { get; set; }
 		public string? Location { get; set; } = string.Empty;
+		public string City { get; set; }
 		public string? Genre { get; set; } = string.Empty;
 		public string? Description { get; set; } = string.Empty;
-		public string? TicketType { get; set; } = string.Empty;
-		public double TicketPrice { get; set; }
-		public string? LineUp { get; set; } = string.Empty;
+		public List<Ticket> Tickets { get; set; }
+		public List<string> LineUp { get; set; }
 		public string? TicketLink { get; set; } = string.Empty;
 
-		public Festival(int id, string name, DateOnly date, TimeOnly start, TimeOnly end, string location, string genre, string description, string ticketType, double ticketPrice, string lineUp, string ticketLink)
+		public Festival(int id, string name, DateOnly date, TimeOnly start, TimeOnly end, string location, string city, string genre, string description, List<Ticket> tickets, List<string> lineUp, string ticketLink)
 		{
 			Id = id;
 			Name = name;
@@ -23,12 +23,13 @@
 			StartingTime = start;
 			EndingTime = end;
 			Location = location;
+			City = city;
 			Genre = genre;
 			Description = description;
-			TicketType = ticketType;
-			TicketPrice = ticketPrice;
+			Tickets = tickets;
 			LineUp = lineUp;
 			TicketLink = ticketLink;
 		}
 	}
+
 }
