@@ -11,15 +11,15 @@
     <h1 class="text-center">WELKOM</h1>
 </head>
 
-<div class="input-group">
-    <input type="text"
-           name="search"
-           class="form-control"
-           placeholder="Zoek een festival..."/>
-    <button class="btn btn-primary">
-        Zoeken
-    </button>
-</div>
+
+<form asp-controller="Customer" asp-action="Index" method="get">
+    <div class="input-group">
+        <input type="text" name="search" class="form-control" value="@Model.Search" placeholder="Zoek een festival..."/>
+        <button type="submit" value="search" class="btn btn-primary">
+            Zoeken   
+        </button>
+    </div>
+</form>
 
 <div class="container my-4">
     @foreach (var item in Model.festivals)

@@ -14,9 +14,9 @@
             <div class="row g-3 align-items-start">
                 <div class="col-auto">
                     <img class="img-fluid"
-                         src="https://festivalfans.nl/wp-content/uploads/2014/12/316553591_667533888144557_8267567650546764213_n-1-180x240.jpg"
+                         src=@Model.selectedFestival.ImageUrl
                          width="180" height="240"
-                         alt="HARDFEST">
+                         alt="Image">
                 </div>
                 <div class="col">
                     <p class="mb-1"><strong>Stad:</strong> @Model.selectedFestival.City</p>
@@ -24,6 +24,13 @@
                     <p class="mb-1"><strong>Datum:</strong> @Model.selectedFestival.Date</p>
                     <p class="mb-3"><strong>Tijd:</strong> @Model.selectedFestival.StartingTime - @Model.selectedFestival.EndingTime</p>
                 </div>
+            </div>
+
+            <hr>
+            
+            <div class="container">
+                <h5 class="fw-bold">Beschrijving</h5>
+                <p>@Model.selectedFestival.Description</p>
             </div>
 
             <hr>

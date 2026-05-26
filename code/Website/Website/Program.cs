@@ -1,5 +1,5 @@
 using DAL;
-using Logic;
+using Logic.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 

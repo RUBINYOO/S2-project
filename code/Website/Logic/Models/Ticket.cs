@@ -2,15 +2,17 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Logic
+namespace Logic.Models
 {
 	public class Ticket
 	{
+		public int Id { get; set; }
 		public string Type { get; set; }
 		public decimal Price { get; set; }
 
-		public Ticket (string type, decimal price)
+		public Ticket (int id, string type, decimal price)
 		{
+			Id = id;
 			Type = type;
 			Price = price;
 		}

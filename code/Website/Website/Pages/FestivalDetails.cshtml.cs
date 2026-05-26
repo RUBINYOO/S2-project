@@ -1,5 +1,7 @@
 using DAL;
-using Logic;
+using Logic.Interfaces;
+using Logic.Models;
+using Logic.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
